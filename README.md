@@ -31,7 +31,7 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
 <a href="https://tryhackme.com/p/sanjokkarki"><img src="https://raw.githubusercontent.com/thesanjok/thesanjok/main/sanjokkarki.png" alt="TryHackMe-Bagde"></a>
 </p><br>-->
 
-### 🔗 Security Portfolio
+### 🔗 Security Portfolios
 [<img align="left"  width="22px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/socials/h1.png" />][hackerone]
 [<img align="left"  width="22px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/socials/bugcrowd.png" />][bugcrowd]
 [<img align="left" width="22px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/socials/tryhackme.png" />][tryhackme]
