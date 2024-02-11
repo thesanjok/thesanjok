@@ -20,7 +20,7 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
 💻   &nbsp; I'm passionate about everything in Cyber Security.<br>
 ⛳   &nbsp; Actively participating in Bug Bounty Programs & also often in Capture The Flag (CTF) tournaments.<br>
 ✍   &nbsp; Specialized in hacking across Web, API, Mobile, and Thick Client Applications.<br>
-🔭   &nbsp; Currently diving deep into Source Code Review, Scripting, Binary Exploitation, Reverse Engineering, OSINT & &nbsp; &nbsp; &nbsp; Cryptography.<br>
+🔭   &nbsp; Currently diving deep into Source Code Review, Scripting, Binary Exploitation, Reverse Engineering, OSINT&nbsp;&&nbsp;Cryptography.<br>
 🎯   &nbsp; Heavily dedicated to emerging cutting-edge tech, exploring new attack methods, and hunting zero-days.<br>
 🌏   &nbsp; Visit my <a href="https://sanjokkarki.com.np">website</a> to know more about me.<br>
 
