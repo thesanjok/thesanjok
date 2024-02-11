@@ -58,6 +58,8 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
 </div>
 <br/>
 
+&nbsp;
+
 ### 🔗 Connect with me
 [<img align="left"  width="22px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/socials/web.png" />][website]
 [<img align="left"  width="22px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/socials/facebook.png" />][facebook]
