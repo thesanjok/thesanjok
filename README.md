@@ -83,13 +83,6 @@ ________________________________________________________________________________
 <img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
 </p><br>
 
-[![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
-
-<p align="center"> 
-  <b> Visitor Count </b><br>
-  <img src="https://profile-counter.glitch.me/PushkraJ99/count.svg" />
-</p><br>
-
 [website]: https://sanjokkarki.com.np
 [facebook]: https://www.facebook.com/thesanjok
 [X]: https://x.com/thesanjok
