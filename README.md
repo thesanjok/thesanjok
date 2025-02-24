@@ -77,6 +77,19 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
 <img src="https://github-readme-stats.vercel.app/api?username=thesanjok&show_icons=true&theme=gotham" alt="thesanjok" width="440" height="180">
 </a>
 
+_______________________________________________________________________________________________________________
+
+<p align="center">
+<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+</p><br>
+
+[![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
+
+<p align="center"> 
+  <b> Visitor Count </b><br>
+  <img src="https://profile-counter.glitch.me/PushkraJ99/count.svg" />
+</p><br>
+
 [website]: https://sanjokkarki.com.np
 [facebook]: https://www.facebook.com/thesanjok
 [X]: https://x.com/thesanjok
