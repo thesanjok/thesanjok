@@ -50,7 +50,7 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
 <a href="https://www.w3schools.com/html/"><img align="left" alt="HTML5" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/html.png" /></a>
 <a href="https://www.w3schools.com/css/"><img align="left" alt="CSS3" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/css.png" /></a>
 <a href="https://www.mysql.com/"><img align="left" alt="MySql" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/mysql.png" /></a>
-<a href="https://metasploit.com/"><img align="left" alt="MySql" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/metasploit.png" /></a>  
+<a href="https://metasploit.com/"><img align="left" alt="Metasploit" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/metasploit.png" /></a>  
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/vscode.png" /></a>
 <a href="https://postman.com/"><img align="left" alt="Postman" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/postman.png" /></a>
 <a href="https://docker.com/"><img align="left" alt="docker" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/docker.png" /></a>
