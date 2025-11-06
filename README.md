@@ -42,6 +42,8 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
 <div>
 <p>
 <a href="https://python.org"><img align="left" alt="Python" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/python.png" /></a>
+<a href="https://www.c-language.org"><img align="left" alt="C" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/c.png" /></a>
+<a href="https://cplusplus.com/"><img align="left" alt="C++" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/cpp.png" /></a>
 <a href="https://www.java.com/en/"><img align="left" alt="java" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/java.png" /></a>
 <a href="https://www.javascript.com/"><img align="left" alt="Javascript" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/javascript.png"></a>
 <a href="https://www.gnu.org/software/bash/"><img align="left" alt="Bash" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/bash.png" /></a>
