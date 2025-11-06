@@ -40,26 +40,26 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
 
 ### 📚 Go-To Tech Stack
 <div>
-<p>
-<a href="https://python.org"><img align="left" alt="Python" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/python.png" /></a>
-<a href="https://www.c-language.org"><img align="left" alt="C" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/c.png" /></a>
-<a href="https://cplusplus.com/"><img align="left" alt="C++" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/cpp.png" /></a>
-<a href="https://www.java.com/en/"><img align="left" alt="java" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/java.png" /></a>
-<a href="https://www.javascript.com/"><img align="left" alt="Javascript" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/javascript.png"></a>
-<a href="https://www.gnu.org/software/bash/"><img align="left" alt="Bash" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/bash.png" /></a>
-<a href="https://www.w3schools.com/html/"><img align="left" alt="HTML5" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/html.png" /></a>
-<a href="https://www.w3schools.com/css/"><img align="left" alt="CSS3" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/css.png" /></a>
-<a href="https://www.mysql.com/"><img align="left" alt="MySql" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/mysql.png" /></a>
-<a href="https://metasploit.com/"><img align="left" alt="Metasploit" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/metasploit.png" /></a>  
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/vscode.png" /></a>
-<a href="https://postman.com/"><img align="left" alt="Postman" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/postman.png" /></a>
-<a href="https://portswigger.net/burp/pro"><img align="left" alt="Burpsuite" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/burp.png" /></a>
-<a href="http://ghidra.net/"><img align="left" alt="Ghidra" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ghidra.png" /></a>
-<a href="https://hex-rays.com/ida-pro"><img align="left" alt="IDA Pro" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ida.png" /></a> 
-<a href="https://docker.com/"><img align="left" alt="docker" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/docker.png" /></a>
-<a href="https://www.kali.org/"><img align="left" alt="kali" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/kali.png" /></a>
-<a href="https://ubuntu.com/"><img align="left" alt="ubuntu" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ubuntu.png" /></a>
-<a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/git.png" /></a>
+<p align="left">
+  <a href="https://python.org"><img alt="Python" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/python.png" /></a>
+  <a href="https://www.c-language.org"><img alt="C" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/c.png" /></a>
+  <a href="https://cplusplus.com/"><img alt="C++" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/cpp.png" /></a>
+  <a href="https://www.java.com/en/"><img alt="Java" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/java.png" /></a>
+  <a href="https://www.javascript.com/"><img alt="JavaScript" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/javascript.png" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/bash.png" /></a>
+  <a href="https://www.w3schools.com/html/"><img alt="HTML5" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/html.png" /></a>
+  <a href="https://www.w3schools.com/css/"><img alt="CSS3" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/css.png" /></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/mysql.png" /></a>
+  <a href="https://metasploit.com/"><img alt="Metasploit" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/metasploit.png" /></a>
+  <a href="https://code.visualstudio.com/"><img alt="VS Code" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/vscode.png" /></a>
+  <a href="https://postman.com/"><img alt="Postman" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/postman.png" /></a>
+  <a href="https://portswigger.net/burp/pro"><img alt="Burp Suite" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/burp.png" /></a>
+  <a href="http://ghidra.net/"><img alt="Ghidra" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ghidra.png" /></a>
+  <a href="https://hex-rays.com/ida-pro"><img alt="IDA Pro" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ida.png" /></a>
+  <a href="https://docker.com/"><img alt="Docker" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/docker.png" /></a>
+  <a href="https://www.kali.org/"><img alt="Kali Linux" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/kali.png" /></a>
+  <a href="https://ubuntu.com/"><img alt="Ubuntu" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ubuntu.png" /></a>
+  <a href="https://git-scm.com/"><img alt="Git" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/git.png" /></a>
 </p>
 </div>
 <br/>
