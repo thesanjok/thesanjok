@@ -53,10 +53,13 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
 <a href="https://metasploit.com/"><img align="left" alt="Metasploit" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/metasploit.png" /></a>  
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/vscode.png" /></a>
 <a href="https://postman.com/"><img align="left" alt="Postman" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/postman.png" /></a>
+<a href="https://portswigger.net/burp/pro"><img align="left" alt="Burpsuite" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/burp.png" /></a>
+<a href="http://ghidra.net/"><img align="left" alt="Ghidra" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ghidra.png" /></a>
+<a href="https://hex-rays.com/ida-pro"><img align="left" alt="IDA Pro" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ida.png" /></a> 
 <a href="https://docker.com/"><img align="left" alt="docker" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/docker.png" /></a>
 <a href="https://www.kali.org/"><img align="left" alt="kali" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/kali.png" /></a>
 <a href="https://ubuntu.com/"><img align="left" alt="ubuntu" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/ubuntu.png" /></a>
-<a href="https://github.com/thesanjok"><img align="left" alt="GitHub" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/github.png" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/git.png" /></a>
 </p>
 </div>
 <br/>
