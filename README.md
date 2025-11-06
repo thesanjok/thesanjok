@@ -62,9 +62,6 @@ Ah, behold! A security aficionado, dancing in the intricate realm of programming
   <a href="https://git-scm.com/"><img alt="Git" width="26px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/skills/git.png" /></a>
 </p>
 </div>
-<br/>
-
-&nbsp;
 
 ### 🔗 Connect with me
 [<img align="left"  width="22px" src="https://github.com/thesanjok/thesanjok/blob/main/assets/socials/web.png" />][website]
