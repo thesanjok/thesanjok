@@ -31,7 +31,6 @@ class SecurityResearcher:
 ⛳ &nbsp; Active on Bug Bounty platforms & CTF battlegrounds.<br/>
 ✍ &nbsp; Expertise: Web | API | Mobile | Thick Client exploitation.<br/>
 🔭 &nbsp; Deep diving into: Code Review, Binary Exploitation, Reverse Engineering, OSINT & Cryptography.<br/>
-🎯 &nbsp; Always chasing the next zero-day.<br/>
 🌏 &nbsp; More at <a href="https://sanjokkarki.com.np">sanjokkarki.com.np</a><br/>
 
 <!--
