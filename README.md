@@ -24,7 +24,7 @@ class SecurityResearcher:
         self.role = "Security Research Engineer"
         self.weapons = ["Web", "API", "Mobile", "Thick Client"]
         self.currently_breaking = ["Source Code", "Binaries", "Crypto"]
-        self.motto = "If you didn't build it, you can break it."
+        self.motto = "If you didn't build it, you can still break it :P"
 ```
 
 💻 &nbsp; Obsessed with offensive security—if it exists, it has bugs.<br/>
