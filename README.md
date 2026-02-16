@@ -85,13 +85,6 @@ class SecurityResearcher:
 
 ---
 
-### ⚡ Stats
-<a href="https://github.com/thesanjok?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=thesanjok&theme=gotham" alt="thesanjok" width="440" height="180">
-</a>
-
----
-
 <p align="center">
 <img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
 </p><br>
