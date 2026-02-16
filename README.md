@@ -87,7 +87,7 @@ class SecurityResearcher:
 
 ### ⚡ Stats
 <a href="https://github.com/thesanjok?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=thesanjok&show_icons=true&theme=gotham&hide_border=true" alt="thesanjok" width="440" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=thesanjok&theme=gotham" alt="thesanjok" width="440" height="180">
 </a>
 
 ---
